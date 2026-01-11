@@ -89,4 +89,4 @@ Ikuti langkah ini untuk menjalankan project di lokal komputer Anda:
 Jika ingin berkontribusi, silakan *fork* repositori ini dan buat *Pull Request*. Saran dan masukan sangat dihargai!
 
 ---
-**Developed with ❤️ by [Ega](https://github.com/egaa884)**
+**Developed by [Ega](https://github.com/egaa884)**
