@@ -36,13 +36,6 @@ Saat ini aplikasi mendukung penyimpanan lokal (Offline-First) menggunakan SQLite
 - **Penyimpanan Lokal:** [Shared Preferences](https://pub.dev/packages/shared_preferences) (Untuk pengaturan tema/settings)
 - **UI Components:** Google Material Design 3, `flutter_slidable`, `intl`, `image_picker`.
 
-## 📸 Screenshots
-
-Berikut adalah tampilan antarmuka dari aplikasi:
-
-| Beranda | Menu Navigasi | Keuangan | Kalender | Profil & Statistik |
-| <img src="android/public/asset/img/beranda.jpeg" width="200" alt="Beranda"> | <img src="android/public/asset/img/WhatsApp%20Image%202026-01-11%20at%2015.07.31.jpeg" width="200" alt="Menu Drawer"> | <img src="android/public/asset/img/keuangan.jpeg" width="200" alt="Keuangan"> | <img src="android/public/asset/img/Kalender.jpeg" width="200" alt="Kalender"> | <img src="android/public/asset/img/WhatsApp%20Image%202026-01-11%20at%2015.07.32.jpeg" width="200" alt="Profil User"> |
-
 
 ## 🚀 Cara Menjalankan (Instalasi)
 
